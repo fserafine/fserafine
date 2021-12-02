@@ -7,7 +7,7 @@ I am a junior data scientist with several years of full-time software QA and tec
 
 ### Project CAP (Crime Analysis & Prediction)
 
-In my repositories, you will find a repo for `CrimePrediction`, which is the culmination of 12 weeks of brainstorming, data wrangling, machine learning modeling, and critical analysis. In it, I attempt to use an ensemble of models to establish an expected level of crime over two years, given eight prior years of data to train on.
+In my repositories, you will find a repo for `CrimePrediction`, which is the culmination of 12 weeks of brainstorming, data engineering, data wrangling, machine learning modeling, and critical analysis. In it, I attempt to use an ensemble of models to establish an expected level of crime over two years, given eight prior years of data to train on.
 
 I also have a [Tableau Public portfolio](https://public.tableau.com/app/profile/frank.serafine) with visualizations of the data involved in Project CAP. Below is a preview of the main dashboard highlighting offender, offense, victim, and time series information.
 
