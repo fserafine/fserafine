@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## "Curiosity is the engine of creation."
 
-You can use the [editor on GitHub](https://github.com/fserafine/fserafine/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my code portfolio! Here you will find my most recent professional code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a junior data scientist with several years of full-time software QA and tech support experience to my name. I am looking for full-time employment in a data science role.
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project CAP (Crime Analysis & Prediction)
 
-```markdown
-Syntax highlighted code block
+In my repositories, you will find a repo for `CrimePrediction`, which is the culmination of 12 weeks of brainstorming, data wrangling, machine learning modeling, and critical analysis. In it, I attempt to use an ensemble of models to establish an expected level of crime over two years, given eight prior years of data to train on.
 
-# Header 1
-## Header 2
-### Header 3
+I also have a [Tableau Public portfolio](https://public.tableau.com/app/profile/frank.serafine) with visualizations of the data involved in Project CAP. Below is a preview of the main dashboard highlighting offender, offense, victim, and time series information.
 
-- Bulleted
-- List
+![Image](https://lh3.googleusercontent.com/uNDcBSBB2snCaLZEY0vKNrGXR434IGFjnUD0Wom7eStRbfvoghTg_0Y0kyf0MxFAtRttNq6v4j_2n3OstDDvq8xrvdeVzP2GiRQfla1ixfBBQnM-2DpKv5ozGJ-cK3ekcuIO2rIPPVMT4BhlEUqujHaf9zVlSqcuxPC7NyeOyhMyZlWZ-ObMWNvwdMn6uH1XmnVrhI6bQSu0hNYFCN9lmBF1JijJ99uDM0FUpA3HjIEl_NJnsojYT0GHUdhtW94DnPcpubWKKI6yBEOt_60--Om6rAaz7Q369i0JRDnMSpPyN6pfY1cMz3WngQpJW0hET67KFaHygkFUR5e3NeDzVjICCC_uj6zaM_KbnR77_sbkImoI1gkd1WTXdS8MiBQI30yjFSRTej-zrnPC9cSAMOYH1X7ZD2twGDzud7UXUd0csfaaQr0z1D51iGW8FNM9xKFcxVx__zSxsFRreHQ6_0kgJ_Vv5sgdmspXt8-C8lLK51yOl3zPjb-YU-5xAbqQcb4Awusy5uYX8S9v0zSnB0dWZ9MEBDHckk_BxicmwZiPomDh9cMsWmzwJGfdifFAWN5w6SDQae5NVUCiCxbG6s0GeG_tHDjXACQKyR4XbgnlATxWr8vG4R_WbIkBE4RZh9pQgKpG7gVssdf-xDOcUICuwcO7uB7mbLRX0_PwKQ9Fn2yGM5aEliTWyY9ayQRXeEbI0c-pbqvjIf32J3Bo_LE=w1140-h635-no?authuser=0)
 
-1. Numbered
-2. List
+### Ongoing Work
 
-**Bold** and _Italic_ and `Code` text
+Because I am beginning my data science work, I will be continually adding repositories as I dig deeper into research. I believe that if you aren't continually learning, you're backsliding. 
 
-[Link](url) and ![Image](src)
-```
+Thank you for reading my introduction! Please check out my work and contact me if you like what you see.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fserafine/fserafine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Email me!](mailto:theserafine@gmail.com)
