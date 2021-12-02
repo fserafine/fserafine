@@ -4,7 +4,6 @@ Welcome to my code portfolio! Here you will find my most recent professional cod
 
 I am a junior data scientist with several years of full-time software QA and tech support experience to my name. I am looking for full-time employment in a data science role.
 
-<br>
 
 ### Project CAP (Crime Analysis & Prediction)
 
