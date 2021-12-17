@@ -10,7 +10,9 @@ I am looking for full-time employment in a data science role, and you may view [
 
 In my repositories, you will find a repo for `ProjectCAP`, which is the culmination of 12 weeks of brainstorming, data engineering, data wrangling, machine learning modeling, and critical analysis. In it, I attempt to contextualize a period of criminal activity by having an ensemble of models establish an expected level of crime, given eight prior years of data to train on.
 
-<html><div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ac4fc299da284e97834777db89726429" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></html>
+<html>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ac4fc299da284e97834777db89726429" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+</html>
 
 I also have a [Tableau Public portfolio](https://public.tableau.com/app/profile/frank.serafine) with interactive dashboards and visualizations of the data involved in Project CAP. 
 
