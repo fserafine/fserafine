@@ -4,7 +4,7 @@ Welcome to my code portfolio! Here you will find my most recent professional cod
 
 I am a junior data scientist with several years of full-time software QA and tech support experience to my name. 
 
-I am looking for full-time employment in a data science role, and you may view [my LinkedIn profile](https://www.linkedin.com/in/frankserafine/) for more info about me.
+You may view [my LinkedIn profile](https://www.linkedin.com/in/frankserafine/) for more info about me.
 
 ### Project CAP (Crime Analysis & Prediction)
 
@@ -16,8 +16,6 @@ I also have a [Tableau Public portfolio](https://public.tableau.com/app/profile/
 
 ### Ongoing Work
 
-Because I am beginning my data science work, I will be continually adding repositories as I dig deeper into research. I believe that if you aren't continually learning, you're backsliding. 
+Because I am beginning my data science work, I will be continually adding repositories as I dig deeper into research on my own time. I believe that if you aren't continually learning, you're backsliding. 
 
 Thank you for reading my introduction! Please check out my work and contact me if you like what you see.
-
-[Email me!](mailto:theserafine@gmail.com)
