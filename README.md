@@ -2,7 +2,7 @@
 
 Welcome to my code portfolio! Here you will find my most recent professional code.
 
-I am currently a Data Analyst and consider myself a Data-Scientist-in-training. 
+I am currently a Data Analyst and consider myself a Data-Scientist-in-training.  
 I have several years of full-time software QA and tech support experience otherwise.
 
 You may view [my LinkedIn profile](https://www.linkedin.com/in/frankserafine/) for more info about me.
